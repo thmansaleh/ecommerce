@@ -1,0 +1,28 @@
+.footer-payment{
+    padding: 15px;
+
+}
+.footer-payment >h5{
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.footer-payment> div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 80px;
+    
+    
+  }
+  .footer-payment > div >svg{
+    height:100%;
+    width: 15%;
+    margin: 0 10px;
+    fill: #e6e6e6
+    
+  }
+
+  .footer-payment > div>svg> .cls-1{fill:#e6e6e6;}.cls-2{fill:#fff;}.cls-3{fill:#f9a533;}
+  .footer-payment > div>svg> .cls-1{fill:#e6e6e6;}.cls-2{fill:#fff;}
+  .footer-payment > div>svg> .cls-1{fill:#e6e6e6;}.cls-2{fill:#f16522;}.cls-3{fill:#e41b24;}.cls-4{fill:#f89e1c;}

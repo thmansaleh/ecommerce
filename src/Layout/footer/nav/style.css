@@ -1,0 +1,23 @@
+
+.footer-li-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between ;
+    flex-wrap: wrap ;
+  
+    
+  }
+  .footer-li-container span{
+    width:50%;
+    text-align: center;
+    margin: 0.5rem 0;
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+  }
+
+  @media screen and (min-width: 500px) {
+    .footer-li-container{
+        width: 50%;        
+      }
+  }

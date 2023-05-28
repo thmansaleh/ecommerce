@@ -1,0 +1,28 @@
+
+.home-category-slider{
+
+    height: 80px !important;
+    width: 60px !important;
+    margin-left: 0px;
+    /* margin-right: 15px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.home-category-img{
+    background: #fff;
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.home-category-title{
+    font-size: 1rem;
+    font-weight: bolder;
+    margin: 20px 0;
+}
+.home-category-name{
+font-weight: 500;
+font-size: 0.8rem;
+}

@@ -1,0 +1,11 @@
+.arrow-back{
+  width: 1.7rem;
+  height: -moz-fit-content;
+  height: fit-content;
+  fill: #000;
+  position: absolute;
+  top: 1rem;
+  /* transform: rotateY(180deg); */
+  left: 7px;
+  z-index: 2;
+  }

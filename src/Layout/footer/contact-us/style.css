@@ -1,0 +1,76 @@
+
+.customer-service-container{
+  
+    height: 100px;
+  padding: 10px ;
+  border-radius: 7px ;
+  
+    
+  }
+  .customer-service-container> h5{
+    font-weight: bold;
+    font-size: 1.2rem
+  }
+  .customer-service-container >div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 10px 0;
+    border-radius: 7px ;
+    
+  
+  }
+  .customer-service-container >div >div{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 5px;
+    
+    
+  }
+  .customer-service-container >div >div >div{
+    display: flex;
+    justify-content: center;
+    align-items: space-around;
+    flex-direction: column;
+    width: 90%;
+    padding: 0 10px;
+    height: 100%;
+    
+  }
+  .customer-service-container >div >div >div span{
+    font-size: 0.8rem;
+    width: 100%
+    
+  }
+  .customer-service-container >div >div >div span:first-child{
+    color: #707070;
+    font-weight: 700
+    
+  }
+  .customer-service-container >div >div >div span:last-child{
+    font-weight: bold
+    
+  }
+  .customer-service-container >div >div svg{
+    height: 100%;
+    width: 25px;
+    
+  
+  }
+  customer-service-container >div >div >div  span:first-child{
+    font-weight: bold;
+  }
+  @media screen and (min-width: 500px) {
+    footer .customer-service-container{
+      display: flex;
+      justify-content: space-around ;
+      align-items: center
+    }
+    .customer-service-container >div {
+      width: 60%;
+    }
+  }

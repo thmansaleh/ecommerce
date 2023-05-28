@@ -1,0 +1,11 @@
+
+
+
+
+
+@media screen and (min-width: 500px) {
+    .product-slider-container{
+        display: flex;
+        justify-content: space-around;
+    }
+  }

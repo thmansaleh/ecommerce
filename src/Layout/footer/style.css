@@ -1,0 +1,13 @@
+
+footer{
+    padding: 20px;
+    padding-bottom: 131px;
+}
+
+
+@media screen and (min-width: 500px) {
+    footer .nav-payment-container{
+        display: flex;
+        justify-content: center;  
+    }
+  }

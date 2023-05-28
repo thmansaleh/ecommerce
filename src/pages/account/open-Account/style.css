@@ -1,0 +1,32 @@
+
+
+
+.open-account-title{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+
+/* .open-account{
+    margin-top: 15px;
+} */
+.open-account button{
+    width: 140px;
+    height: 46px;
+    border: 1px solid black;
+    border-radius: 0.6rem;
+    padding: 0 15px;
+    font-size: 14px;
+    font-weight: 500;
+    outline: 0;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.004);
+    border-radius: 0.6rem;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+  
+}
+.open-account >span{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
